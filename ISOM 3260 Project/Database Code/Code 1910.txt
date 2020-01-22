@@ -1,0 +1,9 @@
+alter table order_item
+add order_sweetness varchar2(30);
+
+alter table order_item
+add order_coldness varchar2(30);
+
+alter table order_item
+add order_item_id varchar2(30);
+
